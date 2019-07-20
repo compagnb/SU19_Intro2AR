@@ -1,0 +1,7 @@
+https://compagnb.github.io/SU19_Intro2AR/
+
+https://aframe.io/releases/0.6.1/aframe.min.js
+
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+
+https://cdn.rawgit.com/jeromeetienne/AR.js/1.5.0/aframe/build/aframe-ar.js
